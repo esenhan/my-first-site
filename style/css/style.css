@@ -1,0 +1,47 @@
+body{
+    background-color: gray;
+}
+h2{
+    color: red;
+}
+.header3{
+    color: green;
+}
+.header2{
+    color: white;
+}
+#p1{
+    font-size: 50px;
+}
+.header4{
+    color: yellow;
+}
+.block1 p{
+    background-color: red;
+    font-size: 55px;
+}
+.block2 p{
+    background-color: white;
+    font-size: 55px;
+}
+.block1{
+    background-color: red;
+}
+.block2{
+    background-color: orange;
+}
+.block3{
+    background-color: yellow;
+}
+.block4{
+    background-color: green;
+}
+.block5{
+    background-color: rgb(74, 170, 248);
+}
+.block6{
+    background-color: blue;
+}
+.block7{
+    background-color: purple;
+}

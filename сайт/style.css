@@ -1,0 +1,42 @@
+header{
+    width: 1500px;
+    height: 150px;
+    background-color: rgb(48, 48, 48);
+    text-align: center;
+}
+.container {
+    display: flex;
+}
+.box1{
+    display: inline-block; 
+    background-color: gray;
+    width: 150px;
+    height: 700px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.box2{
+    padding-top: 100px;
+    padding-left: 100px;
+}
+footer{
+    
+    text-align: center;
+    background-color: rgb(48,48,48);
+    height: 100px;
+
+}
+img{
+    width: 900px;
+     display: inline-block;
+    margin-bottom: 10px;
+
+} 
+b{
+    color: white;
+    margin-top: 100px;
+    font-size: 30px;
+    margin-top: 100px;
+}
+

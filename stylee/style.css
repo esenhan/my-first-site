@@ -1,0 +1,20 @@
+
+.float-1{
+    float: left;
+    width: 400px;
+    height: 200px;
+    border: 0px solid white;
+}
+.float-2{
+    float: right;
+    width: 400px;
+    height: 200px;
+    border: 0px solid white;
+}
+.float-3, .float-4{
+    float: left;
+    width: 200px;
+}
+.div-clear{
+    clear: both;
+}

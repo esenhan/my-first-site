@@ -1,0 +1,29 @@
+img {
+    width: 300px;
+}
+div, h1, p{
+    background-color: red;
+    ;
+}
+span, img, b{
+    background-color: purple;
+    
+}
+p{
+    background: white;
+    border: 3px solid red;
+    margin: 10px 50px 30px 5px;
+    padding: 30px;
+    padding: 30px;
+    padding: 30px;
+    padding: 30px;
+}
+h1{
+    padding: 50px 100px;
+}
+div{
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    margin-right: 100px;
+}

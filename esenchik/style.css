@@ -1,0 +1,21 @@
+.my-flex-container{
+    display: flex;
+    width: 700px;
+    height: 550px;
+    margin: 0 auto;
+    padding-left: 150px;
+    padding-right: 10px;
+
+}
+div{
+    border: 6px solid gray;
+}
+
+.flex-block{
+    width: 100px;
+    
+}
+img{
+    width: 100px;
+    height: 430px;
+}

@@ -1,0 +1,20 @@
+div{
+    font-size: 30px;
+    width: 200px;
+    height: 30px;
+    border: 2px solid gray;
+    
+}
+
+.burger{
+    color: red;
+}
+.mobile{
+    color: gray;
+}
+.play{
+    color: black;
+}
+.coffe{
+    color: chocolate;
+}

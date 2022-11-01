@@ -1,0 +1,21 @@
+.box1{
+    
+    position: absolute;
+    width: 450px;
+    top: 100px;
+    margin-left: 0;
+}
+.box1 img {
+    width: 100%;
+}
+.box2{
+    
+    margin-left: 50px ;
+    margin-top: 200px;
+    position: fixed;
+    width: 300px;
+    
+}
+body{
+    height: 5000px;
+}
